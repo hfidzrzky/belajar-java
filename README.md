@@ -6,9 +6,9 @@ Seluruh materi disusun secara **modular, mandiri, dan komprehensif** dalam folde
 
 ---
 
-## 📚 Daftar Lengkap Modul Pembelajaran (Learning Path)
+## Daftar Lengkap Modul Pembelajaran (Learning Path)
 
-### 🚀 Fase 1: Fundamental Java (Dasar Komputasi & Algoritma)
+### Fase 1: Fundamental Java (Dasar Komputasi & Algoritma)
 1. **[Modul 01: Struktur Program Java Dasar](file:///d:/Projects/BELAJAR%20JAVA/docs/modul/Modul01-Struktur-Dasar.md)**
    - *Topik:* Arsitektur file `.java`, fungsi *class*, peran `main` method, JVM, dan aturan dasar penulisan (*case-sensitive*, titik koma).
 2. **[Modul 02: Variabel, Tipe Data, dan Input Scanner](file:///d:/Projects/BELAJAR%20JAVA/docs/modul/Modul02-Variabel-TipeData-Scanner.md)**
@@ -26,7 +26,7 @@ Seluruh materi disusun secara **modular, mandiri, dan komprehensif** dalam folde
 
 ---
 
-### 🏛️ Fase 2: Object-Oriented Programming (OOP)
+### Fase 2: Object-Oriented Programming (OOP)
 8. **[Modul 08: Konsep Dasar OOP — Class, Object, Field, dan Behavior](file:///d:/Projects/BELAJAR%20JAVA/docs/modul/Modul08-Konsep-Dasar-OOP.md)**
    - *Topik:* Pergeseran paradigma dari prosedural ke objek, kelas sebagai *blueprint*, instansiasi objek dengan `new`, State vs Behavior, dan kata kunci `this`.
 9. **[Modul 09: Constructor, Encapsulation, dan Access Modifier](file:///d:/Projects/BELAJAR%20JAVA/docs/modul/Modul09-Constructor-Dan-Encapsulation.md)**
@@ -38,7 +38,7 @@ Seluruh materi disusun secara **modular, mandiri, dan komprehensif** dalam folde
 
 ---
 
-## 🛠️ Struktur Direktori Proyek
+## Struktur Direktori Proyek
 
 ```text
 BELAJAR JAVA/
@@ -74,7 +74,7 @@ BELAJAR JAVA/
 
 ---
 
-## 💡 Panduan Belajar Mandiri
+## Panduan Belajar Mandiri
 1. Buka modul materi yang ingin dipelajari di folder `docs/modul/`.
 2. Pahami **Analogi Dunia Nyata** dan **Konsep Inti** sebelum menyentuh kode.
 3. Ketik ulang (jangan sekadar copy-paste) **Contoh Kode Program** di folder `modul/` untuk melatih memori otot (*muscle memory*).
